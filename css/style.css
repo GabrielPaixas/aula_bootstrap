@@ -1,0 +1,20 @@
+
+.navbar {
+    background-color: bisque;
+}
+
+.inicio {
+    background-color: rgb(255, 251, 213);
+}
+
+.margin-top {
+    padding-top: 30px;
+}
+
+.margin-bot {
+    padding-bottom: 30px;
+}
+
+.sobre {
+    background-color: rgb(225, 255, 208);
+}
